@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hello 👋, I'm Reeya Rehan 🎯️🚀️</h1>
 <h3 align="center">Hey it's me Reeya Rehan,INTERN IIITDMK'24 | INTERN IITJ'23 | COMPUTER ENGINEERING STUDENT | GCET,JAMMU | 2025 GRAD| DS | AI/ML </h3>
 
